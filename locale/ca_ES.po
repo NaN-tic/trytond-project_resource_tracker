@@ -1,0 +1,43 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:company.employee,trackers:"
+msgid "Trackers"
+msgstr ""
+
+msgctxt "field:project.tracker-company.employee,create_date:"
+msgid "Create Date"
+msgstr "Data de creació"
+
+msgctxt "field:project.tracker-company.employee,create_uid:"
+msgid "Create User"
+msgstr "Usuari de creació"
+
+msgctxt "field:project.tracker-company.employee,employee:"
+msgid "Employee"
+msgstr "Empleat"
+
+msgctxt "field:project.tracker-company.employee,id:"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "field:project.tracker-company.employee,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:project.tracker-company.employee,tracker:"
+msgid "Tracker"
+msgstr ""
+
+msgctxt "field:project.tracker-company.employee,write_date:"
+msgid "Write Date"
+msgstr "Data modificación"
+
+msgctxt "field:project.tracker-company.employee,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "model:project.tracker-company.employee,name:"
+msgid "Employee - Trackers"
+msgstr "Empleat - Tracker"
